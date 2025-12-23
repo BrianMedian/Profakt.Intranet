@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
 using System.Reflection;
 
-namespace Median.IntranetTemplate.Common
+namespace Profakt.Intranet.Common
 {
     public static class ValidationServiceExtensions
     {

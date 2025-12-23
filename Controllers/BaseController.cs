@@ -1,8 +1,8 @@
-﻿using Median.IntranetTemplate.Common;
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Profakt.Intranet.Common;
 
-namespace Median.IntranetTemplate.Controllers
+namespace Profakt.Intranet.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
